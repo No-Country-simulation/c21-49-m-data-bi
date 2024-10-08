@@ -52,7 +52,8 @@ Para ejecutar este proyecto localmente:
    git clone https://github.com/tu_usuario/violence-analysis-latinamerica.git
 
 
-Resultados Esperados
+## Resultados Esperados
+
 Al ejecutar el análisis, los usuarios podrán generar reportes y dashboards interactivos que muestren las siguientes tendencias:
 
 Evolución de la violencia política en distintos países de América Latina.
