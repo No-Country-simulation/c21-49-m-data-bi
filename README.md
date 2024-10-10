@@ -1,6 +1,6 @@
 # Análisis de Eventos de Violencia Política en América Latina (2018-2024)
 
-<p align=center><img src= https://img.freepik.com/fotos-premium/protestando-multitud-personas-calles-ciudad-puno-levantado-vista-trasera-marcha-protesta-nacional-contra-guerra_77829-10435.jpg width="180"><p> 
+<p align=center><img src= https://img.freepik.com/fotos-premium/protestando-multitud-personas-calles-ciudad-puno-levantado-vista-trasera-marcha-protesta-nacional-contra-guerra_77829-10435.jpg width="280"><p> 
 
 ## Descripción del Proyecto
 
