@@ -1,6 +1,6 @@
 # Documentación de los datos
 
-En esta carpeta se encuentran los datos utilizados en el proyecto de análisid de datos sobre la violencia en América Latina.
+En esta carpeta se encuentran los datos utilizados en el proyecto de análisis de datos sobre la violencia en América Latina.
 
 ## Estructura de carpetas
 
@@ -14,6 +14,7 @@ En esta carpeta se encuentran los datos utilizados en el proyecto de análisid d
 ### Datos originales
 
 - `base_de_datos.txt`: Muestra un enlace para acceder a la base de datos externa. Para acceder a la base de datos es necesario hacer lo siguiente:
+
 #### Para usuarios registrados
 1. Abrir el archivo `\raw\base_de_datos.txt`.
 2. Copiar la URL que se encuentra dentro del archivo.
@@ -21,7 +22,7 @@ En esta carpeta se encuentran los datos utilizados en el proyecto de análisid d
 4. Colocar la API Key y el correo electrónico con el cual están registrados.
 5. Presionar `Submit`, para descargar la base de datos original.
 
-### Para usuarios no registrados
+#### Para usuarios no registrados
 1. Ingresar a https://developer.acleddata.com/
 2. Registrarse con tus datos y validar el mail que llega a la dirección de correo indicada.
 3. En el menú `Dashboard`, seleccionamos la opción `Add New Key` para obtener una API.
@@ -41,5 +42,5 @@ En esta carpeta se encuentran los datos utilizados en el proyecto de análisid d
 ### Limpieza de datos
 Se eliminaron columnas con valores innecesarios para el análisis, como `timestamp`, `tags`, `source`, `iso`, `admin2`, `admin3`, `time_precision`, `geo_precision`, `notes` y `event_id_cnty`.
 
-### Diccionario de datos
+## Diccionario de datos
 Para los datos en crudo, el diccionario de datos (codebook) para este proyecto se encuentra en la [página de ACLED](https://acleddata.com/knowledge-base/codebook/).
