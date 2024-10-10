@@ -1,5 +1,7 @@
 # Análisis de Eventos de Violencia Política en América Latina (2018-2024)
 
+<p align=center><img src= https://img.freepik.com/fotos-premium/protestando-multitud-personas-calles-ciudad-puno-levantado-vista-trasera-marcha-protesta-nacional-contra-guerra_77829-10435.jpg w=200><p>
+
 ## Descripción del Proyecto
 
 Este proyecto utiliza un dataset que contiene información estadística sobre eventos de violencia política, manifestaciones y eventos relacionados, registrados en América Latina y el Caribe desde el 1 de enero de 2018 hasta el 27 de septiembre de 2024. Los datos provienen de **ACLED Data**, una organización internacional independiente y sin fines de lucro que recopila información sobre conflictos violentos y protestas a nivel global.
