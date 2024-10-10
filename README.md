@@ -62,7 +62,8 @@ Al ejecutar el análisis, los usuarios podrán generar reportes y dashboards int
 - Temporalidad y patrones en los conflictos a lo largo del periodo 2018-2024.
 - 
 ## Nuestros datos
--Gonzalez Denise  www.linkedin.com/in/nissedgonzalezm
+
+- Gonzalez Denise  www.linkedin.com/in/nissedgonzalezm
 -
 -
 -
