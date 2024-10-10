@@ -66,8 +66,8 @@ Al ejecutar el análisis, los usuarios podrán generar reportes y dashboards int
 ## Nuestros datos
 
 - Gonzalez Denise  www.linkedin.com/in/nissedgonzalezm
--
--
--
+- Mathias Roldan
+- Nahuel 
+- Karla 
 
 ## Gracias por llegar hasta aquí
