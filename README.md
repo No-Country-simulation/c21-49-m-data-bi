@@ -56,7 +56,7 @@ Para ejecutar este proyecto localmente:
 
 Al ejecutar el análisis, los usuarios podrán generar reportes y dashboards interactivos que muestren las siguientes tendencias:
 
-Evolución de la violencia política en distintos países de América Latina.
-Zonas geográficas con mayor concentración de eventos violentos o de protestas.
-Actores más recurrentes en los eventos políticos y sociales.
-Temporalidad y patrones en los conflictos a lo largo del periodo 2018-2024.
+- Evolución de la violencia política en distintos países de América Latina.
+- Zonas geográficas con mayor concentración de eventos violentos o de protestas.
+- Actores más recurrentes en los eventos políticos y sociales.
+- Temporalidad y patrones en los conflictos a lo largo del periodo 2018-2024.
