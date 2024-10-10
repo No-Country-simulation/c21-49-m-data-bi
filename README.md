@@ -60,3 +60,11 @@ Al ejecutar el análisis, los usuarios podrán generar reportes y dashboards int
 - Zonas geográficas con mayor concentración de eventos violentos o de protestas.
 - Actores más recurrentes en los eventos políticos y sociales.
 - Temporalidad y patrones en los conflictos a lo largo del periodo 2018-2024.
+- 
+## Nuestros datos
+-Gonzalez Denise  www.linkedin.com/in/nissedgonzalezm
+-
+-
+-
+
+## Gracias por llegar hasta aquí
