@@ -56,7 +56,7 @@ Para ejecutar este proyecto localmente:
 
 ## Resultados Esperados
 
-Al ejecutar el análisis, los usuarios podrán generar reportes y dashboards interactivos que muestren las siguientes tendencias:
+Al ejecutar el análisis, se busca generar un dashboard interactivo que muestren las siguientes tendencias:
 
 - Evolución de la violencia política en distintos países de América Latina.
 - Zonas geográficas con mayor concentración de eventos violentos o de protestas.
@@ -64,10 +64,10 @@ Al ejecutar el análisis, los usuarios podrán generar reportes y dashboards int
 - Temporalidad y patrones en los conflictos a lo largo del periodo 2018-2024.
 - 
 ## Nuestros datos
-
+-Nahuel Lemos https://www.linkedin.com/in/nlem 
 - Gonzalez Denise  www.linkedin.com/in/nissedgonzalezm
-- Mathias Roldan
-- Nahuel 
+- Mathias Roldan https://www.linkedin.com/in/mathias-roldan
+  
 - Karla 
 
 ## Gracias por llegar hasta aquí
