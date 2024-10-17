@@ -65,8 +65,8 @@ Al ejecutar el análisis, se busca generar un dashboard interactivo que muestren
 
 ## Nuestros datos
 
-- Nahuel Lemos https://www.linkedin.com/in/nlem 
-- Gonzalez Denise  www.linkedin.com/in/nissedgonzalezm
-- Mathias Roldan https://www.linkedin.com/in/mathias-roldan
+- Nahuel Lemos www.linkedin.com/in/nlem 
+- Gonzalez Denise www.linkedin.com/in/nissedgonzalezm
+- Mathias Roldan www.linkedin.com/in/mathias-roldan
 
 ## Gracias por llegar hasta aquí
