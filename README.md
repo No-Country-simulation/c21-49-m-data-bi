@@ -61,13 +61,12 @@ Al ejecutar el análisis, se busca generar un dashboard interactivo que muestren
 - Evolución de la violencia política en distintos países de América Latina.
 - Zonas geográficas con mayor concentración de eventos violentos o de protestas.
 - Actores más recurrentes en los eventos políticos y sociales.
-- Temporalidad y patrones en los conflictos a lo largo del periodo 2018-2024.
-- 
+- Temporalidad y patrones en los conflictos a lo largo del periodo 2018-2023.
+
 ## Nuestros datos
--Nahuel Lemos https://www.linkedin.com/in/nlem 
+
+- Nahuel Lemos https://www.linkedin.com/in/nlem 
 - Gonzalez Denise  www.linkedin.com/in/nissedgonzalezm
 - Mathias Roldan https://www.linkedin.com/in/mathias-roldan
-  
-- Karla 
 
 ## Gracias por llegar hasta aquí
