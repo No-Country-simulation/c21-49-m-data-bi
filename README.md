@@ -22,9 +22,10 @@ El análisis de este conjunto de datos puede ser beneficioso para los siguientes
 
 Este MVP se desarrolló utilizando las siguientes herramientas y tecnologías:
 
-- **Excel**: Utilizado para la limpieza y exploración preliminar de los datos. Importación de datos, revisión rápida, eliminación de duplicados e inconsistencias, y ajustes en el formato.
+- **Excel y Google Sheets**: Utilizado para la limpieza y exploración preliminar de los datos. Importación de datos, revisión rápida, eliminación de duplicados e inconsistencias, y ajustes en el formato.
 - **Python**: Aplicado para análisis estadístico avanzado, modelado predictivo y automatización de la manipulación de datos. Se emplearon bibliotecas como `pandas` y `numpy`.
-- **Power BI**: Usado para la visualización interactiva de los resultados. Se crearon dashboards, mapas, gráficos dinámicos y análisis interactivos de los datos procesados.
+- **Canva**: Utilizado para la creación del mockup del dashboard.
+- **Looker Studio**: Usado para la visualización interactiva de los resultados. Se crearon dashboards, mapas, gráficos dinámicos y análisis interactivos de los datos procesados.
 
 ## Uso del Dataset
 
